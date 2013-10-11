@@ -1,0 +1,23 @@
+{
+  "name": "Web-App",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "Rusty Calder",
+      "email": "rusty@tinkrlabs.com"
+    }
+  ],
+  "private": true,
+  "dependencies": {
+    "express": "~3.0.0rc5",
+    "underscore": "~1.4.2",
+    "consolidate": "~0.9.1",
+    "less": "~1.4.2",
+    "handlebars": "~1.0.12",
+    "less-middleware": "~0.1.12"
+  },
+  "engines": {
+    "node": "0.10.16",
+    "npm": "1.1.x"
+  }
+}
